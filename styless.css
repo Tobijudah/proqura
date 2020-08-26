@@ -1,0 +1,33 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  color: #B6D2E3;
+  font-family: 'DM Sans', sans-serif;
+}
+
+.container {
+  width: 90%;
+  margin: 0 auto;
+}
+
+#hero {
+  background: #4031B7;
+}
+
+nav#sub {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  padding: 1.75rem 0;
+}
+
+nav#sub p {
+  margin-left: 1.25rem;
+  display: flex;
+  align-items: center;
+}
+
+nav#sub img {
+  margin-right: 0.5rem;
+}
